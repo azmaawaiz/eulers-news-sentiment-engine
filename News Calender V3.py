@@ -7,7 +7,6 @@ from datetime import datetime, timezone
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 from playsound import playsound
 
-#------------------ first vesion doing well on news reslt show in cmd Prompt not in excel -----------------------
 # --- UTF-8 STABILITY ---
 if sys.platform == "win32":
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
