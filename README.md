@@ -79,13 +79,6 @@ EURUSD, GBPUSD, XAUUSD
 HEADLINE:
 Federal Reserve signals potential rate cuts later this year
 
-## Future Roadmap
 
-* Bayesian news impact scoring
-* Asset-specific impact models
-* Gold-specific sentiment model
-* Quantitative signal generation
-* Machine learning event classification
-
-Developed by Euler's Quantitative Research.
+Developed by Euler's Quantitative Traders (EQT).
 
