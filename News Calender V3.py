@@ -10,8 +10,6 @@ from playsound import playsound
 # --- UTF-8 STABILITY ---
 if sys.platform == "win32":
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
-    
-NEWS_QUANTITY =  2 # how much news you want to see   
 
 # --- CONFIGURATION ---
 FINNHUB_API_KEY = os.getenv("FINNHUB_API_KEY")
