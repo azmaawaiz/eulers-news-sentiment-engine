@@ -1,4 +1,4 @@
-# Euler's News Sentiment Engine
+# Eulers News Sentiment Engine
 
 A real-time financial market intelligence system designed to monitor breaking news, classify affected assets, and generate sentiment-driven trading insights.
 
